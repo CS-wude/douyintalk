@@ -1,4 +1,10 @@
-# 抖音Cookie自动获取与配置工具
+# 抖音Cookie自动获取与配置工具(整合了信息爬取功能)
+
+本工具基于以下开源项目实现：
+- Cookie获取实现：[TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+- 抖音信息获取实现：[douyin](https://github.com/erma0/douyin)
+
+## 本项目仅用于学习
 
 ## 项目简介
 
@@ -844,5 +850,7 @@ dir Talk_output\        # AI话术
 本工具基于以下开源项目实现：
 - Cookie获取实现：[TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
 - 抖音信息获取实现：[douyin](https://github.com/erma0/douyin)
-- AI话术生成：[Coze API](https://www.coze.cn/)
+
+
+AI话术生成：[Coze API](https://www.coze.cn/)
 
