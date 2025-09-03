@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "total_urls": 3,
+    "success_count": 1,
+    "failed_count": 0,
+    "cookie_success": 2,
+    "crawl_success": 2,
+    "ai_success": 1,
+    "processing_time_seconds": 69.32,
+    "start_time": "2025-09-01T17:49:51.355700",
+    "end_time": "2025-09-01T17:51:00.675031"
+  },
+  "results": [
+    {
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAqvvLjQbwVfb8E8kgNyrAHRJgX6lFwMTzg2-7Bk2PjlHtknUYbkVig-LR-e1UMMO7?from_tab_name=main&vid=7531693148620328244",
+      "index": 1,
+      "timestamp": "2025-09-01T17:49:51.355700",
+      "cookie_success": true,
+      "crawl_success": true,
+      "ai_success": true,
+      "user_info": {
+        "nickname": "苏泷哇",
+        "signature": "一个搞笑的人    只为逗你笑\n书名《苏泷的人生》 🍅小说可👀\n商务➕：MengLongA888（备明来意）",
+        "sec_user_id": "",
+        "uid": "2650273308490676",
+        "unique_id": "SuLong1888a",
+        "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oU4A4bXavge9n8AQABYDAHCN4AjeILFTl6HHAE.jpeg?from=2956013662",
+        "ip_location": "IP属地：江西",
+        "follower_count": 525765,
+        "following_count": 23,
+        "aweme_count": 218,
+        "total_favorited": 6147713
+      },
+      "ai_talk": "苏泷哇，我刚发现你这个“快乐制造机”啦！你写的《苏泷的人生》肯定超有趣，我已经迫不及待想钻进书里一探究竟啦。而且你的搞笑功力简直无敌，看你的视频就像打开了快乐盲盒，每次都有惊喜。我要紧紧跟着你，成为你超忠实的小粉丝，以后就靠你逗我笑啦！",
+      "error_message": null
+    }
+  ]
+}

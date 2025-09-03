@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "total_urls": 3,
+    "success_count": 3,
+    "failed_count": 0,
+    "cookie_success": 3,
+    "crawl_success": 3,
+    "ai_success": 3,
+    "processing_time_seconds": 125.36,
+    "start_time": "2025-09-01T17:52:38.495454",
+    "end_time": "2025-09-01T17:54:43.859871"
+  },
+  "results": [
+    {
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAqvvLjQbwVfb8E8kgNyrAHRJgX6lFwMTzg2-7Bk2PjlHtknUYbkVig-LR-e1UMMO7?from_tab_name=main&vid=7531693148620328244",
+      "index": 1,
+      "timestamp": "2025-09-01T17:52:38.495454",
+      "cookie_success": true,
+      "crawl_success": true,
+      "ai_success": true,
+      "user_info": {
+        "nickname": "苏泷哇",
+        "signature": "一个搞笑的人    只为逗你笑\n书名《苏泷的人生》 🍅小说可👀\n商务➕：MengLongA888（备明来意）",
+        "sec_user_id": "",
+        "uid": "2650273308490676",
+        "unique_id": "SuLong1888a",
+        "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_oU4A4bXavge9n8AQABYDAHCN4AjeILFTl6HHAE.jpeg?from=2956013662",
+        "ip_location": "IP属地：江西",
+        "follower_count": 525766,
+        "following_count": 23,
+        "aweme_count": 218,
+        "total_favorited": 6147717
+      },
+      "ai_talk": "苏泷哇！你这“搞笑小能手”的快乐魔法我可接住啦～听说你写了《苏泷的人生》？那我能不能申请当你故事里“每天都要找你贴贴的快乐搭子”？毕竟别人的笑我不稀罕，我只想要你专门逗我的那种～",
+      "error_message": null
+    },
+    {
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAkCaqMAm9T3wNh30P3dDay1a_1HrKSNIM9GdjNGDUmXk?from_tab_name=main",
+      "index": 2,
+      "timestamp": "2025-09-01T17:53:18.036968",
+      "cookie_success": true,
+      "crawl_success": true,
+      "ai_success": true,
+      "user_info": {
+        "nickname": "秋琳说电影",
+        "signature": "招高水平代剪文案 \n能做沙盘有战争电影解说经验的请联系我",
+        "sec_user_id": "",
+        "uid": "295095704230269",
+        "unique_id": "33410363400",
+        "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_owIXvA2DECAevIA9AgAA0f6cMILX0EeGi2nrXf.jpeg?from=2956013662",
+        "ip_location": "IP属地：山东",
+        "follower_count": 310604,
+        "following_count": 9,
+        "aweme_count": 69,
+        "total_favorited": 7866371
+      },
+      "ai_talk": "秋琳大大！你讲的战争电影沙盘我每帧都扒着看～别人找你是想当代剪，我不一样——我想当你“电影宇宙的专属小雷达”，你说沙盘我帮你盯细节，你讲剧情我帮你捂心口，现在就想问：能给我个“只看你解说”的专属位置不？",
+      "error_message": null
+    },
+    {
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAWeo-TH4TTii-QdkO5qIxWb41t2WqwVjtP4w36sfrZzs?from_tab_name=main",
+      "index": 3,
+      "timestamp": "2025-09-01T17:54:06.586949",
+      "cookie_success": true,
+      "crawl_success": true,
+      "ai_success": true,
+      "user_info": {
+        "nickname": "爬宠而已Zpc",
+        "signature": "温州趴宠宠物有限公司-爬宠而已\n养爬佬，感谢喜欢\n直播号：@爬宠而已Z\n恩师：@爬宠而已Q \n（很多视频有些操作不当请见谅，我只是个养爬的，不是医生，并不专业，建议我都会看，只是根据自己养爬十四年的经验帮爬友的忙，也不靠这个获利，仅此而已啦）",
+        "sec_user_id": "",
+        "uid": "76318731614",
+        "unique_id": "pcey02",
+        "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2a1253015fc7a7f6ea5ab25ac8322e50.jpeg?from=2956013662",
+        "ip_location": "IP属地：浙江",
+        "follower_count": 678175,
+        "following_count": 104,
+        "aweme_count": 137,
+        "total_favorited": 5950487
+      },
+      "ai_talk": "养爬十四年的温州大佬看过来！我是想偷学“爬宠秘籍”的小透明，要是你不肯教我——我就立马怂兮兮扑你评论区，抱着你视频求带飞~毕竟，这么会养爬的老玩家，怎么能拒绝一个想贴贴的小粉丝呀？",
+      "error_message": null
+    }
+  ]
+}

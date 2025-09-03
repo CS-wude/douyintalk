@@ -1,0 +1,19 @@
+# 抖音用户链接配置文件
+# 使用说明：
+# 1. 每行一个链接，或者用逗号、分号分隔多个链接
+# 2. 以 # 开头的行为注释行，会被忽略
+# 3. 支持短链接和完整链接格式
+
+# 示例链接（请替换为实际链接）:
+https://www.douyin.com/user/MS4wLjABAAAAqvvLjQbwVfb8E8kgNyrAHRJgX6lFwMTzg2-7Bk2PjlHtknUYbkVig-LR-e1UMMO7?from_tab_name=main&vid=7531693148620328244
+https://www.douyin.com/user/MS4wLjABAAAAkCaqMAm9T3wNh30P3dDay1a_1HrKSNIM9GdjNGDUmXk?from_tab_name=main
+https://www.douyin.com/user/MS4wLjABAAAAWeo-TH4TTii-QdkO5qIxWb41t2WqwVjtP4w36sfrZzs?from_tab_name=main
+# https://v.douyin.com/iSNbMea7/
+# https://www.douyin.com/user/MS4wLjABAAAAk9ajo7ujVMAdMy8gTPNpFtxemAX9XiTFs_oVIzosg8PuREt0dm3gATQ17yhEP48C?from_tab_name=main
+
+
+# 也可以在一行放多个链接（用逗号分隔）:
+# https://v.douyin.com/link1/, https://v.douyin.com/link2/
+
+# 完整格式的链接也支持:
+# https://www.douyin.com/user/MS4wLjABAAAA...

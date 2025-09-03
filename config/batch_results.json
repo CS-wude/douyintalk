@@ -1,0 +1,43 @@
+{
+  "total_urls": 3,
+  "successful": 3,
+  "failed": 0,
+  "skipped": 0,
+  "start_time": "2025-09-01T17:31:44.084707",
+  "end_time": "2025-09-01T17:31:53.688477",
+  "results": [
+    {
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAqvvLjQbwVfb8E8kgNyrAHRJgX6lFwMTzg2-7Bk2PjlHtknUYbkVig-LR-e1UMMO7?from_tab_name=main&vid=7531693148620328244",
+      "index": 1,
+      "timestamp": "2025-09-01T17:31:44.084707",
+      "success": true,
+      "message": "Cookie配置成功 - Cookie有效，但未登录状态",
+      "user_id": "MS4wLjABAAAAqvvLjQbwVfb8E8kgNyrAHRJgX6lFwMTzg2-7Bk2PjlHtknUYbkVig-LR-e1UMMO7",
+      "browser_used": "Edge",
+      "cookie_fields_count": 35,
+      "logged_in": false
+    },
+    {
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAkCaqMAm9T3wNh30P3dDay1a_1HrKSNIM9GdjNGDUmXk?from_tab_name=main",
+      "index": 2,
+      "timestamp": "2025-09-01T17:31:48.338111",
+      "success": true,
+      "message": "Cookie配置成功 - Cookie有效，但未登录状态",
+      "user_id": "MS4wLjABAAAAkCaqMAm9T3wNh30P3dDay1a_1HrKSNIM9GdjNGDUmXk",
+      "browser_used": "Edge",
+      "cookie_fields_count": 35,
+      "logged_in": false
+    },
+    {
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAWeo-TH4TTii-QdkO5qIxWb41t2WqwVjtP4w36sfrZzs?from_tab_name=main",
+      "index": 3,
+      "timestamp": "2025-09-01T17:31:52.519282",
+      "success": true,
+      "message": "Cookie配置成功 - Cookie有效，但未登录状态",
+      "user_id": "MS4wLjABAAAAWeo-TH4TTii-QdkO5qIxWb41t2WqwVjtP4w36sfrZzs",
+      "browser_used": "Edge",
+      "cookie_fields_count": 35,
+      "logged_in": false
+    }
+  ]
+}
